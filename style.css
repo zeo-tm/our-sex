@@ -124,6 +124,7 @@ window#waybar.empty #window {
 
 #custom-power {
   color: #36c4a0;
+  padding-right: 12px;
 }
 
 tooltip {
