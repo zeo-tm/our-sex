@@ -1,6 +1,3 @@
-# our-sex
-<img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/4eb560b5-4765-4e83-b1b1-86fd022be09d" />
-<img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/e3457907-64f0-4535-9603-c6aad00c1f7c" />
-
-
-
+# freebsd rice
+<img width="1920" height="1080" alt="screenshot_20250830_115504" src="https://github.com/user-attachments/assets/69bf05bd-8263-4b9c-b8b0-5dd04d06e7b1" />
+<img width="1920" height="1080" alt="screenshot_20250830_115238" src="https://github.com/user-attachments/assets/867d033f-819b-4e80-bfb8-27d81bcac092" />
